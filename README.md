@@ -16,8 +16,10 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 1.If you want to download the app just go to [Docker](https://docs.docker.com/desktop/windows/install/) and click on "Docker Desktop for Windows".
 
 ![docker](https://user-images.githubusercontent.com/76858112/174468652-24116d06-72e5-43c8-9dbe-4127086a4c38.png)
+
 2. Tick the term checkbox and accept the Service Agreement
+
 ![dockerterms](https://user-images.githubusercontent.com/76858112/174468667-c809befa-c51e-42f2-95cb-c2e8a0a09122.png)
 
 
-## Setting Up Docker and MongoDB 
+## WSL 2 Linux Kernel Installation 
