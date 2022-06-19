@@ -42,6 +42,51 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 
 
 ## Installing MongoDB Container
-## Creating Database in MongoDB
+
+![container1](https://user-images.githubusercontent.com/76858112/174485270-c5c77f93-4d8b-4fee-97c9-f5db444d5187.png)
+
+![container2](https://user-images.githubusercontent.com/76858112/174485283-98a60091-c400-472c-a650-bcfa98cc640c.png)
+
+![container3](https://user-images.githubusercontent.com/76858112/174485304-4b59e009-43aa-4b02-8993-1cb760eb1a08.png)
+
+![container4](https://user-images.githubusercontent.com/76858112/174485312-4911fdee-f755-44a2-ae75-dc536979f278.png)
+
+![container5](https://user-images.githubusercontent.com/76858112/174485336-4c0139be-38a8-4104-9880-b48ff4317f76.png)
+
+
+## Creating Database in MongoDB using CLI
+
+![cli1](https://user-images.githubusercontent.com/76858112/174485416-ba055e92-502e-46f3-8b1e-4ef7647fda61.png)
+
+![cli2](https://user-images.githubusercontent.com/76858112/174485424-98674acf-106d-4b31-ad0b-68e86b15fa6d.png)
+
+![cli3](https://user-images.githubusercontent.com/76858112/174485431-4128fb1f-3fa7-450c-97aa-824383c23d37.png)
+
+![cli4](https://user-images.githubusercontent.com/76858112/174485436-c817de36-2b31-4c32-b8f6-87c2ad63777a.png)
+
+![cli5](https://user-images.githubusercontent.com/76858112/174485440-a29dceaa-e61f-498b-9d77-157dd1524366.png)
+
 ## MongoDB Compass Installation
-## Creating Database in MongoDB
+
+![compass1](https://user-images.githubusercontent.com/76858112/174485523-b72cf459-6881-4fcf-972f-a27b21bfee6d.png)
+
+![compass2](https://user-images.githubusercontent.com/76858112/174485526-7ee81a79-b271-4d4e-8bc9-c10d30e178fb.png)
+
+![compass3](https://user-images.githubusercontent.com/76858112/174485533-8a070226-1120-469f-86aa-bcdc600646bc.png)
+
+![compass4](https://user-images.githubusercontent.com/76858112/174485538-a33b2414-a51d-42aa-b91f-44c136540692.png)
+
+![compass5](https://user-images.githubusercontent.com/76858112/174485539-b1c918d0-7dd8-430d-b481-69817958b460.png)
+
+![compass6](https://user-images.githubusercontent.com/76858112/174485540-8912b870-902c-4c67-820c-46255b960abb.png)
+
+
+
+
+
+
+
+
+
+
+
