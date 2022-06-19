@@ -31,6 +31,9 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 ![linux kernel2](https://user-images.githubusercontent.com/76858112/174470690-37eca532-636e-4896-9e19-8eb4d13c6367.png)
 
 ## Starting Docker
+
+![docker start](https://user-images.githubusercontent.com/76858112/174470864-0fe3ae66-bdd7-4b55-8d67-044b444f8dcb.png)
+
 ## Installing MongoDB Container
 ## Creating Database in MongoDB
 ## MongoDB Compass Installation
