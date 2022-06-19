@@ -23,6 +23,12 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 
 
 ## WSL 2 Linux Kernel Installation 
+
+![linux kernel](https://user-images.githubusercontent.com/76858112/174470589-88490dcb-5abb-4fe7-8321-bac8654eadbd.png)
+
+![linux kernel1](https://user-images.githubusercontent.com/76858112/174470657-4fbc3968-24d5-4df2-8180-684eee00d6cc.png)
+
+
 ## Starting Docker
 ## Installing MongoDB Container
 ## Creating Database in MongoDB
