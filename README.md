@@ -1,4 +1,4 @@
-# Docker & Database Tutorial
+erer# Docker & Database Tutorial
 ### Prepared by: Group 3
 Name| Matric Number
 ------------ | -------------
@@ -13,4 +13,5 @@ Lecturer: Dr Rizal, Section 1
 Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine.
 
 ## Docker Installation
-If you want to download the app just go to [Docker](https://docs.docker.com/desktop/windows/install/) and click on "Docker Desktop for Windows".
+1.If you want to download the app just go to [Docker](https://docs.docker.com/desktop/windows/install/) and click on "Docker Desktop for Windows".
+![docker](\Users\user\Downloads\docker1.png)
