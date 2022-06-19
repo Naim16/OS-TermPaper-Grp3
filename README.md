@@ -1,4 +1,4 @@
-erer# Docker & Database Tutorial
+# Docker & Database Tutorial
 ### Prepared by: Group 3
 Name| Matric Number
 ------------ | -------------
@@ -14,4 +14,5 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 
 ## Docker Installation
 1.If you want to download the app just go to [Docker](https://docs.docker.com/desktop/windows/install/) and click on "Docker Desktop for Windows".
-![docker](\Users\user\Downloads\docker1.png)
+
+![docker](/Downloads/docker1.png)
