@@ -15,9 +15,4 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 ## Docker Installation
 1.If you want to download the app just go to [Docker](https://docs.docker.com/desktop/windows/install/) and click on "Docker Desktop for Windows".
 
-## Setting Up PhpMyAdmin & MySQL 
-1. Type mkdir PHPMYADMIN_docker to create a new project
-2. Afte changing the directory to the crated project, type code . and it will oprn visual studio code with the project already created. 
-
-![docker1](https://user-images.githubusercontent.com/76858112/174467758-c03fb504-6736-4b58-8854-b0164dbcf156.png)
-
+## Setting Up Docker and MongoDB 
