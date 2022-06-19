@@ -53,6 +53,17 @@ We chose the MongoDB as our database.
 
 
 ## Installing MongoDB Container
+ Try opening your Windows PowerShell and type "docker --version" to ensure MongoDB is compatible. Type docker pull mongo and it will pull mongo image to your docker storage.
+To see the images with its versions with the related details just type “docker image”.
+
+When you type "docker run --name mongo_example -d mongo".
+It will create a Docker Container with these meaning below
+docker run: this command Docker to run a container
+(double dash)name : this will give name to the container
+mongo_example: name of the container
+-d: detach, this means if we close the powershell/terminal the container will run on background
+mongo: the image name we want to use.
+Brief, it is all stated in the pictures.
 
 ![container1](https://user-images.githubusercontent.com/76858112/174485270-c5c77f93-4d8b-4fee-97c9-f5db444d5187.png)
 
@@ -61,6 +72,8 @@ We chose the MongoDB as our database.
 ![container3](https://user-images.githubusercontent.com/76858112/174485304-4b59e009-43aa-4b02-8993-1cb760eb1a08.png)
 
 ![container4](https://user-images.githubusercontent.com/76858112/174485312-4911fdee-f755-44a2-ae75-dc536979f278.png)
+
+This is the sample run in the containers, make sure the container is running and this option is available
 
 ![container5](https://user-images.githubusercontent.com/76858112/174485336-4c0139be-38a8-4104-9880-b48ff4317f76.png)
 
