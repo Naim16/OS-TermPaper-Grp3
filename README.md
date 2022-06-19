@@ -36,12 +36,18 @@ After downloading, click on the file and when it opens press “Next”  and wai
 ![linux kernel2](https://user-images.githubusercontent.com/76858112/174470690-37eca532-636e-4896-9e19-8eb4d13c6367.png)
 
 ## Starting Docker
+Press the “Start” button to get started with Docker.
 
 ![docker start](https://user-images.githubusercontent.com/76858112/174470864-0fe3ae66-bdd7-4b55-8d67-044b444f8dcb.png)
+
+Complete the tutorials, after pressing the “Next Step” button you will see an instruction to push your image to your Docker Hub.
 
 ![docker start1](https://user-images.githubusercontent.com/76858112/174470963-f23f5d83-4b0f-467e-8ad9-0efffaf51bbd.png)
 
 ![docker start2](https://user-images.githubusercontent.com/76858112/174470976-2d536229-c44f-4576-a202-93db19bec326.png)
+
+When you completed Docker Tutorial or skipped the tutorials, the "Home Page" section will be like this and there are several container options to download.
+We chose the MongoDB as our database.
 
 ![docker start3](https://user-images.githubusercontent.com/76858112/174471016-80520633-47f1-47c3-9bf8-19408c7977fb.png)
 
