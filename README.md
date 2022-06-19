@@ -82,6 +82,8 @@ This is the sample run in the containers, make sure the container is running and
 
 ![cli1](https://user-images.githubusercontent.com/76858112/174485416-ba055e92-502e-46f3-8b1e-4ef7647fda61.png)
 
+This is a sample code to run in the mongo CLI on docker.
+
 ![cli2](https://user-images.githubusercontent.com/76858112/174485424-98674acf-106d-4b31-ad0b-68e86b15fa6d.png)
 
 ![cli3](https://user-images.githubusercontent.com/76858112/174485431-4128fb1f-3fa7-450c-97aa-824383c23d37.png)
@@ -91,6 +93,7 @@ This is the sample run in the containers, make sure the container is running and
 ![cli5](https://user-images.githubusercontent.com/76858112/174485440-a29dceaa-e61f-498b-9d77-157dd1524366.png)
 
 ## MongoDB Compass Installation
+This is the MongoDB installation steps.
 
 ![compass1](https://user-images.githubusercontent.com/76858112/174485523-b72cf459-6881-4fcf-972f-a27b21bfee6d.png)
 
