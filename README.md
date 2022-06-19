@@ -23,10 +23,15 @@ Docker is a set of platform as a service products that use OS-level virtualizati
 
 
 ## WSL 2 Linux Kernel Installation 
+Here is the WSL installation, for your computer to use docker you will have to download Linux Kernel. A link is already shown on the image below that sends you straight to the page in order to download the Linux Kernel. Just press the link and proceed downloading.
 
 ![linux kernel](https://user-images.githubusercontent.com/76858112/174470589-88490dcb-5abb-4fe7-8321-bac8654eadbd.png)
 
+Once on the page go to “Step 4” and click the link under “Download the latest package” and it will automatically start downloading.
+
 ![linux kernel1](https://user-images.githubusercontent.com/76858112/174470657-4fbc3968-24d5-4df2-8180-684eee00d6cc.png)
+
+After downloading, click on the file and when it opens press “Next”  and wait for the setup to finish installing and then click the finish button.
 
 ![linux kernel2](https://user-images.githubusercontent.com/76858112/174470690-37eca532-636e-4896-9e19-8eb4d13c6367.png)
 
